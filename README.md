@@ -7,4 +7,4 @@ npm install [dependecy 이름]
  - cors: cors 설정
  - json : json 파싱
  - body-parser: 요청 body 받기
- - nodemon: index.js 저장시 서버 고침  
+ - nodemon: index.js 저장시 서버 수정
