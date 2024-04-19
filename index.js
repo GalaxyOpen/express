@@ -6,4 +6,4 @@ const app = express();
 // localhost:8000
 app.listen(8000, ()=>{
     console.log("8000 서버 호출")
-});
+}); 
